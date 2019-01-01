@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "New Stream",
+      "description": "This is great",
+      "id": 1
+    },
+    {
+      "title": "New Stream",
+      "description": "This is great",
+      "id": 2
+    },
+    {
+      "title": "New Stream",
+      "description": "This is so good",
+      "id": 3
+    },
+    {
+      "title": "Hamed",
+      "description": "Hafez",
+      "id": 4
+    }
+  ]
+}
