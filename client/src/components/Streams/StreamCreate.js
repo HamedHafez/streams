@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { createStream } from '../../Actions';
+import { fetchStream } from '../../Actions';
 import StreamForm from './StreamForm';
 
 
@@ -21,4 +21,4 @@ class StreamCreate extends React.Component {
 }
 
 
-export default connect(null, { createStream })(StreamCreate);
+export default connect(null, { fetchStream })(StreamCreate);
