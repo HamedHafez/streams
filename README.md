@@ -9,11 +9,13 @@
 4- `settings -> Stream -> Choose "Custom Streaming Server" from "Stream Type"`.
 
 5- Enter the following address in the URL field
+
     `rtmp://localhost/live`
 
 6- Enter your id stream in the Stram key filed.
 
-7- Click the OK buttom and then click on "Start Streaming"
+7- Click OK buttom and then click "Start Streaming"
 
 tip: Your id is a number after "/streams/" in the address bar.
+
 for example: "http://localhost:3000/streams/8" 8 is your id.
