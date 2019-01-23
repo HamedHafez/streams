@@ -14,7 +14,7 @@
 
 6- Enter your id stream in the Stram key filed.
 
-7- Click OK buttom and then click "Start Streaming"
+7- Click OK button and then click "Start Streaming"
 
 tip: Your id is a number after "/streams/" in the address bar.
 
